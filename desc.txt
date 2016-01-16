@@ -1,23 +1,14 @@
-On one hand the unemployement rate has been constantly increasing without any significant decline and on the other hand there are many conglomerates with several projects waiting to be done. This doesn't make sense. The problem here is to find the right people to complete the projects at a quick pace.
-
-
-The solution that has been adopted is the 'Off-Site' recruitment. Let's analyse the problems posed by this process in two perspectives.
-
-First the employers perspective.
--> Typical recruitment process is cumbersome, time consuming and leads to resources spent on this process under-utilized.
--> Since the process is time consuming, it delays the completion of project.
-
-Now coming to the job-seekers perspective.
--> Most of the hiring places are at different places.
--> Showcasing of skill-set is unlikely.
- 
-
-The pragmatic solution to this indispensible problem is an open platform which facilitates bi-directional communication between the employer and hired. InstaHire, the hybrid (cross-platform) app is capable of serving the purpose. The app enables the job seekers, irrespective of the domain or stream, to get hired via simple steps. It is beneficial for both the employers and the employees as it simplifies the entire process of hiring. It provides a path for the job-seekers to present information about their skills as well as their achievements. It also allows the recruiter to surf through the profiles and identify prospective employees, matching their requirements. This simplifies the effort required to hire as well as to get hired. The app is capable of running on Android as well as iOS, in addition to be available online and hence can function on any device with a browser.
 The main features of InstaHire are it enables easy searching of jobs and job seekers. The app provides map & location based searching. InstaHire employs a simple procedure. The job seekers register themselves and create a professional profile, showcasing their skills and their achievements. 
+
 The profiles play an important role in ascertaining the skills of the employees. The employer simply searches for employees and gets a list of people, matching the requirement, along with the location. He/she can directly select and recruit people based on their profiles. There is also chat option which allows communication between the employer and employee. This can be used to simulate a quick interview process. 
+
 On the other hand, if the requirement is small, the user can simply post about it on InstaHire and the interested employees would bid on the task. Thus InstaHire is capable of providing on-demand service for hiring (similar to modern cab services).
+
 The bid amount as well as the location of the bidders is available on the map on the user's device. Based on the bid amount and the profile of the employee, the employer can award the project to the specific person and get it done soon. While, the work is in progress, the employer can keep track of the progress and can propose changes on the go, via the chat facility. Once the work is completed, the worker gets his payment via online transfer from the employer or can also be paid in person if convenient. 
-The app also has inbuilt analytics to provide customized offers for the users. It can also detect fradulent posts and remove fake profiles by identifying them based on their activity. InstaHire is built with machine learning algorithms which are capable of rating the work done by the employees automatically. Moreover, the app uses a secure payment gateway and login portal and all details are securely stored to prevent any unauthorized access.
+
+The app also has inbuilt analytics to provide customized offers for the users. It can also detect fradulent posts and remove fake profiles by identifying them based on their activity. InstaHire is built with machine learning algorithms which are capable of rating the work done by the 
+ 
+employees automatically. Moreover, the app uses a secure payment gateway and login portal and all details are securely stored to prevent any unauthorized access.
 
 
 Though, there are similar freelancing apps in the market, they aren't customized for Indians. The location based searching makes InstaHire distinct as it enables users to provide or take service within their location. It also allows the users to check the validity of the task requirement and also allows cash payment based on the requirement. 
