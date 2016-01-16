@@ -1,8 +1,16 @@
-Over the past few year the unemployement rate has been constantly increasing and still we are not able to resolve this issue in a proper manner.
-The main reason for that is people aim for big jobs at top firms, while in many cases the requirement is very small. So, urorganizing a full-length recruitment process for such light tasks would turn futile.
-When it comes to professional hiring, another major problem is that companies are spending a lot f bucks to hire the perfect people for a particular job and it is becoming very tough
-to find the right choice. This process is not only time confusing but inefficient as well at times as it further delays the completion of the project.
-Another drawback is that people are not provided with a perfect platform to prove their talent and demonstrate what they're capapble of, as the recruitment process is becoming more stereotypic and the same process is being followed everywhere. It is evident that most of the processes are becoming useless. 
+On one hand the unemployement rate has been constantly increasing without any significant decline and on the other hand there are many conglomerates with several projects waiting to be done. This doesn't make sense. The problem here is to find the right people to complete the projects at a quick pace.
+
+
+The solution that has been adopted is the 'Off-Site' recruitment. Let's analyse the problems posed by this process in two perspectives.
+
+First the employers perspective.
+-> Typical recruitment process is cumbersome, time consuming and leads to resources spent on this process under-utilized.
+-> Since the process is time consuming, it delays the completion of project.
+
+Now coming to the job-seekers perspective.
+-> Most of the hiring places are at different places.
+-> Showcasing of skill-set is unlikely.
+ 
 
 The pragmatic solution to this indispensible problem is an open platform which facilitates bi-directional communication between the employer and hired. InstaHire, the hybrid (cross-platform) app is capable of serving the purpose. The app enables the job seekers, irrespective of the domain or stream, to get hired via simple steps. It is beneficial for both the employers and the employees as it simplifies the entire process of hiring. It provides a path for the job-seekers to present information about their skills as well as their achievements. It also allows the recruiter to surf through the profiles and identify prospective employees, matching their requirements. This simplifies the effort required to hire as well as to get hired. The app is capable of running on Android as well as iOS, in addition to be available online and hence can function on any device with a browser.
 The main features of InstaHire are it enables easy searching of jobs and job seekers. The app provides map & location based searching. InstaHire employs a simple procedure. The job seekers register themselves and create a professional profile, showcasing their skills and their achievements. 
